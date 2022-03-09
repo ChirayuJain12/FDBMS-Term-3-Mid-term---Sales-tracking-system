@@ -1,1 +1,3 @@
-# FDBMS-Term-3-Mid-term---Sales-tracking-system
+# FDBMS-Term-3-Mid-Term
+# This is the group project of Group-17
+# Data bases taken : Sales tracking system and Music data
